@@ -1,0 +1,3 @@
+Nowadays, with the development of technology, we are preferring to speak rather than type. We all would be using Siri, Google Assistant, Alexa, etc. All these assistants are built using complex algorithms and steady hard work. These not only make our task easy but also save time. It would be wonderful to build a personal voice assistant right? In this project, I have developed a Voice Assistant Project using Python. 
+
+I have used multiple Python modules to build this voice assistant for doing different tasks like accessing files from the device, opening a browser, finding time, etc. One of the main modules is the speech_recognition which is the heart of the whole project. Using this, it will be listening to the voice messages, decode them and also give vocal outputs.
